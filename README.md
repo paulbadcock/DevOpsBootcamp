@@ -1,5 +1,4 @@
 # DevOps Bootcamp - GitHub Actions + Azure
-kick the workflow
 
 ## Overview
 
